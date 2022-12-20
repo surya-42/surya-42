@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @surya-42
+- 👋 Hi, I’m Ramanan Loganathan
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning pyspark
 - 💞️ I’m looking to collaborate on pyspark
