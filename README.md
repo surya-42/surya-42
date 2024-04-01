@@ -1,4 +1,4 @@
-<[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)>
+<[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://as2.ftcdn.net/v2/jpg/05/39/88/83/1000_F_539888304_hjMmavzflkeQBCoWaTDSFqF0rxDa3VA2.jpg))]>
 <h1 align="center">Hi 👋, I'm Ramanan Loganathan</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
