@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ramanan Loganathan</h1>
 <h3 align="center">A passionate Data Engineer</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://www.guvi.in/blog/what-is-a-data-engineer/](https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif?cid=790b7611zk0q4wb25adee8k3yd8lt4evqkt1hifsxbxq52m2&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
+<img align="right" alt="Data Engineer" width="400" src="https://as1.ftcdn.net/v2/jpg/02/04/01/78/1000_F_204017857_xRi32UvWYs22KbBSr4TjdYV56KGkgBLU.jpg">
 
 - 🌱 I’m currently learning **Terraform**
 
